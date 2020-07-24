@@ -1,0 +1,2 @@
+rootProject.name = "Compose News"
+include ':app'
